@@ -24,6 +24,10 @@ public class ProcesorCautare implements Procesor {
             }
         }
 
+<<<<<<< HEAD
+        return 5;
+=======
         return 7;
+>>>>>>> branch2
     }
 }
